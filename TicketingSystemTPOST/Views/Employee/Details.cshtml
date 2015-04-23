@@ -1,0 +1,27 @@
+﻿@model TicketingSystemTPOST.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Детайли за служител</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.employeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.employeeName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Редактирай", "Edit", new { id = Model.employeeID }) |
+    @Html.ActionLink("Обратно към списъка", "Index")
+</p>

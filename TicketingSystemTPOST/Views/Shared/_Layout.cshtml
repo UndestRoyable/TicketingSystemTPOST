@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>TPOST Ticketing System</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 
@@ -17,13 +17,16 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("TPOST Ticketing System", "Index", "Home", null, new { @class = "navbar-brand" })
+                @Html.ActionLink("TPOST Ticketing System", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("За системата", "About", "Home")</li>
+                    <li>@Html.ActionLink("Продажба на билет", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Справки", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Служители", "Index", "Employee")</li>
+                    <li>@Html.ActionLink("Билети", "Index", "Ticket")</li>
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
@@ -33,7 +36,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - Miroslav Marinov, Yordan Kunev. All rights reserved.</p>
+            <p>&copy; @DateTime.Now.Year - Разработено от Мирослав Маринов и Йордан Кънев.</p>
         </footer>
     </div>
 

@@ -1,55 +1,110 @@
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.dll.config
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.pdb
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Antlr3.Runtime.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.SqlServer.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Core.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Owin.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Host.SystemWeb.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Cookies.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Facebook.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Google.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.OAuth.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Twitter.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Web.Infrastructure.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Newtonsoft.Json.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Owin.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Helpers.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Mvc.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Optimization.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Razor.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Deployment.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Razor.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\WebGrease.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Helpers.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Mvc.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Optimization.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Razor.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Deployment.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Razor.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Newtonsoft.Json.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Antlr3.Runtime.pdb
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.SqlServer.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Core.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Owin.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Host.SystemWeb.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Facebook.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Cookies.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.OAuth.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Google.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Twitter.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.csprojResolveAssemblyReference.cache
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.dll
-E:\Programming\Технология на програмирането\TPOST_TicketingSystem\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.pdb
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.dll.config
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.pdb
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Antlr3.Runtime.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.SqlServer.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Core.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Cookies.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Facebook.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Google.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Twitter.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Web.Infrastructure.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Newtonsoft.Json.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Owin.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Helpers.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Mvc.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Optimization.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Razor.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Deployment.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Razor.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\WebGrease.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Helpers.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Mvc.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Optimization.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Razor.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Deployment.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Razor.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Antlr3.Runtime.pdb
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Newtonsoft.Json.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.SqlServer.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Core.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Facebook.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Cookies.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Google.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Twitter.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.csprojResolveAssemblyReference.cache
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.dll
+D:\RABOTA\Kadiyski-podgotovka\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.pdb
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.dll.config
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\TicketingSystemTPOST.pdb
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Antlr3.Runtime.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.SqlServer.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Newtonsoft.Json.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Owin.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Helpers.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Mvc.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Optimization.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Razor.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Razor.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\WebGrease.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Helpers.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Mvc.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Optimization.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.Razor.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\System.Web.WebPages.Razor.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Antlr3.Runtime.pdb
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Newtonsoft.Json.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\EntityFramework.SqlServer.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.dll
+C:\Users\Miroslav Marinov\Desktop\TicketingSystemTPOST\TicketingSystemTPOST\obj\Debug\TicketingSystemTPOST.pdb

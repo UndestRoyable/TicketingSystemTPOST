@@ -1,0 +1,40 @@
+﻿@model IEnumerable<TicketingSystemTPOST.Models.TicketType>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Списък с всички билети</h2>
+
+<p>
+    @Html.ActionLink("Добавяне на билет", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ticketName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ticketPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ticketName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ticketPrice)
+        </td>
+        <td>
+            @Html.ActionLink("Редактирай", "Edit", new { id=item.ticketTypeID }) |
+            @Html.ActionLink("Детайли", "Details", new { id=item.ticketTypeID }) |
+            @Html.ActionLink("Изтрий", "Delete", new { id=item.ticketTypeID })
+        </td>
+    </tr>
+}
+
+</table>

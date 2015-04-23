@@ -1,0 +1,35 @@
+﻿@model TicketingSystemTPOST.Models.TicketType
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Детайли</h2>
+
+<div>
+   
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ticketName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ticketName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ticketPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ticketPrice)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Редактиране", "Edit", new { id = Model.ticketTypeID }) |
+    @Html.ActionLink("Обратно към списъка", "Index")
+</p>
