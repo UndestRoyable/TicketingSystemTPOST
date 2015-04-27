@@ -1,0 +1,52 @@
+﻿@model IEnumerable<TicketingSystemTPOST.Models.Order>
+
+@{
+    ViewBag.Title = "Продажба на билети";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Продажба на билети</h2>
+
+<p>
+    @Html.ActionLink("Нова продажба", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.employee.employeeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ticketID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.countTicketsOfType)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.employee.employeeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ticketID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.countTicketsOfType)
+        </td>
+        <td>
+            @Html.ActionLink("Редактиране", "Edit", new { id=item.orderID }) |
+            @Html.ActionLink("Детайли", "Details", new { id=item.orderID }) |
+            @Html.ActionLink("Изтриване", "Delete", new { id=item.orderID })
+        </td>
+    </tr>
+}
+
+</table>

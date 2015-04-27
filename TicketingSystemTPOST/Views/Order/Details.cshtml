@@ -1,0 +1,51 @@
+﻿@model TicketingSystemTPOST.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Детайли</h2>
+
+<div>
+    <h4>Детайли за продажба</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.employee.employeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.employee.employeeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ticketID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ticketID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.countTicketsOfType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.countTicketsOfType)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Редактиране", "Edit", new { id = Model.orderID }) |
+    @Html.ActionLink("Обратно към списъка", "Index")
+</p>

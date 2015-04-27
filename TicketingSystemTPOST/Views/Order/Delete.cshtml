@@ -1,0 +1,57 @@
+﻿@model TicketingSystemTPOST.Models.Order
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Изтриване</h2>
+
+<h3>Сигурни ли сте, че искате да изтриете продажбата?</h3>
+<div>
+    <h4>Продажба</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.employee.employeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.employee.employeeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ticketID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ticketID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.countTicketsOfType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.countTicketsOfType)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Изтриване" class="btn btn-default" /> |
+            @Html.ActionLink("Обратно към списъка", "Index")
+        </div>
+    }
+</div>
